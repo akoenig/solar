@@ -1,0 +1,17 @@
+{
+  "author": "André König <andre.koenig@gmail.com> (http://profile.lochkartenstanzer.de)",
+  "name": "solar",
+  "description": "A filebased key-value store.",
+  "version": "0.1.0",
+  "homepage": "http://github.com/akoenig/solar",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akoenig/solar"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
