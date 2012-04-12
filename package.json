@@ -6,11 +6,12 @@
   "homepage": "http://github.com/akoenig/solar",
   "repository": {
     "type": "git",
-    "url": "git@github.com:akoenig/solar"
+    "url": "ghttp://github.com/akoenig/solar.git"
   },
   "engines": {
     "node": "*"
   },
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {}
