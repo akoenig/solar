@@ -1,7 +1,7 @@
 {
   "author": "André König <andre.koenig@gmail.com> (http://profile.lochkartenstanzer.de)",
   "name": "solar",
-  "description": "A filebased key-value store.",
+  "description": "A lightweight key-value store for node.js",
   "version": "0.1.0",
   "homepage": "http://github.com/akoenig/solar",
   "repository": {
